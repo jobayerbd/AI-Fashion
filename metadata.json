@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Stylist",
+  "description": "An AI-powered image editor that generates a model wearing a specific clothing item in a chosen pose. Users upload a clothing mockup and a model's face, select a pose, and the AI creates a new, stylized image.",
+  "requestFramePermissions": []
+}
